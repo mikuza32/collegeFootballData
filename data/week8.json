@@ -1,0 +1,17 @@
+{
+    "team": "Colorado",
+    "offense": {
+        "Total Yards": "405",
+        "Passing Yards": "250",
+        "Rushing Yards": "155",
+        "Points Scored": 34,
+        "Turnovers": "2"
+    },
+    "defense": {
+        "Total Yards Allowed": "245",
+        "Passing Yards Allowed": "138",
+        "Rushing Yards Allowed": "107",
+        "Sacks": "7",
+        "Interceptions": "2"
+    }
+}
