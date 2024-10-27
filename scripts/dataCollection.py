@@ -3,7 +3,7 @@ import json
 import os
 
 #API key and base url I am querying from CFB data
-API_KEY = 'sQdzmVcd+wHpsLKozkwLaTINmZpfUvnunRx/XyvtrhLlFyh/tkVGeNKeDEly9zjY'
+API_KEY = '************************'
 BASE_URL = 'https://api.collegefootballdata.com'
 
 #Directory to save the data
